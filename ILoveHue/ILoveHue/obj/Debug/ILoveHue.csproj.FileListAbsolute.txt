@@ -1,0 +1,5 @@
+C:\Users\zeraj\Desktop\OOP git\ILoveHue\ILoveHue\obj\Debug\ILoveHue.csprojAssemblyReference.cache
+C:\Users\zeraj\Desktop\OOP git\ILoveHue\ILoveHue\obj\Debug\MainWindow.g.cs
+C:\Users\zeraj\Desktop\OOP git\ILoveHue\ILoveHue\obj\Debug\App.g.cs
+C:\Users\zeraj\Desktop\OOP git\ILoveHue\ILoveHue\obj\Debug\ILoveHue_MarkupCompile.cache
+C:\Users\zeraj\Desktop\OOP git\ILoveHue\ILoveHue\obj\Debug\ILoveHue_MarkupCompile.lref
