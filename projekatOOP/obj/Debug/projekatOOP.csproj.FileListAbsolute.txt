@@ -1,0 +1,14 @@
+C:\Users\zeraj\Desktop\projekatOOP\bin\Debug\projekatOOP.exe.config
+C:\Users\zeraj\Desktop\projekatOOP\bin\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\projekatOOP\bin\Debug\projekatOOP.pdb
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\MainWindow.g.cs
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\App.g.cs
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\MainWindow.baml
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.g.resources
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.pdb

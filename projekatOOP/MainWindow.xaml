@@ -1,0 +1,20 @@
+﻿<Window x:Class="projekatOOP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projekatOOP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="303.908">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="169*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="192*"/>
+        </Grid.RowDefinitions>
+        <Canvas x:Name="cnvMain" Height="419" VerticalAlignment="Top" Background="#FF0C0B0B" Grid.RowSpan="3">
+            <Canvas x:Name="cnvIgra" Height="344" Canvas.Top="39" Width="296" Background="#FFEADCDC" RenderTransformOrigin="0.519,0.45"/>
+        </Canvas>
+
+    </Grid>
+</Window>
