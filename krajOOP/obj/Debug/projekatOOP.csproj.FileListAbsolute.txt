@@ -1,0 +1,84 @@
+C:\Users\zeraj\Desktop\projekatOOP\bin\Debug\projekatOOP.exe.config
+C:\Users\zeraj\Desktop\projekatOOP\bin\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\projekatOOP\bin\Debug\projekatOOP.pdb
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\MainWindow.g.cs
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\App.g.cs
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\MainWindow.baml
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.g.resources
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\projekatOOP\obj\Debug\projekatOOP.pdb
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\MainWindow.g.cs
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\App.g.cs
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP.exe
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP.pdb
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\bin\Debug\projekatOOP.exe.config
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\bin\Debug\projekatOOP.exe
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\bin\Debug\projekatOOP.pdb
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\MainWindow.baml
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP.g.resources
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+D:\Users\Dragi\Documents\balsa\Primena Racunara\finalni projekat\tamara\projekatOOP-Tamara\projekatOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.exe.config
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.pdb
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\MainWindow.g.cs
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\App.g.cs
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\MainWindow.baml
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.g.resources
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.pdb
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.exe.config
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.exe
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.pdb
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\MainWindow.g.cs
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\App.g.cs
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\MainWindow.baml
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.g.resources
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.exe
+C:\Users\Petar Markovic\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.pdb
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.exe.config
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.exe
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\bin\Debug\projekatOOP.pdb
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\MainWindow.g.cs
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\App.g.cs
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\MainWindow.baml
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.g.resources
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.exe
+C:\Users\zeraj\Downloads\KRAJJOOP\KRAJJOOP\projekatOOP\obj\Debug\projekatOOP.pdb
+C:\Users\zeraj\Desktop\krajOOP\bin\Debug\projekatOOP.exe.config
+C:\Users\zeraj\Desktop\krajOOP\bin\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\krajOOP\bin\Debug\projekatOOP.pdb
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP.csprojAssemblyReference.cache
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\MainWindow.g.cs
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\App.g.cs
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP_MarkupCompile.cache
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP_MarkupCompile.lref
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\MainWindow.baml
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP.g.resources
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP.Properties.Resources.resources
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP.csproj.GenerateResource.cache
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP.exe
+C:\Users\zeraj\Desktop\krajOOP\obj\Debug\projekatOOP.pdb
